@@ -1,3 +1,16 @@
 .saveBtn{
     border-radius: 10px;
 }
+
+.past {
+background-color: lightcoral
+}
+
+.present {
+    background-color: white;
+
+}
+
+.future { 
+background-color: beige;
+}
